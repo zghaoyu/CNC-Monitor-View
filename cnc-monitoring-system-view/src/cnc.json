@@ -1,0 +1,23 @@
+[
+  {"brand": "Hartford MVP-8","name": "CNC077","status": "WORKING","statusStartTime": "2023-03-22 11:43:29","simulationTime": 12000000},
+  {"brand": "Hartford MVP-8","name": "CNC078","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 9000000},
+  {"brand": "Hartford MVP-8","name": "CNC079","status": "WORKING","statusStartTime": "2023-03-22 11:43:29","simulationTime": 15500000},
+  {"brand": "Hartford MVP-8","name": "CNC080","status": "WORKING","statusStartTime": "2023-03-22 13:43:29","simulationTime": 6500000},
+  {"brand": "Hartford MVP-8","name": "CNC081","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 8500000},
+  {"brand": "Hartford MVP-8","name": "CNC082","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 13500000},
+  {"brand": "Hartford MVP-8","name": "CNC077","status": "WORKING","statusStartTime": "2023-03-22 13:43:29","simulationTime": 12000000},
+  {"brand": "Hartford MVP-8","name": "CNC078","status": "WORKING","statusStartTime": "2023-03-22 13:43:29","simulationTime": 9000000},
+  {"brand": "Hartford MVP-8","name": "CNC079","status": "WORKING","statusStartTime": "2023-03-22 11:43:29","simulationTime": 15500000},
+  {"brand": "Hartford MVP-8","name": "CNC080","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 6500000},
+  {"brand": "Hartford MVP-8","name": "CNC081","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 8500000},
+  {"brand": "Hartford MVP-8","name": "CNC082","status": "WORKING","statusStartTime": "2023-03-22 13:43:29","simulationTime": 13500000},
+  {"brand": "Hartford MVP-8","name": "CNC077","status": "WORKING","statusStartTime": "2023-03-22 13:43:29","simulationTime": 12000000},
+  {"brand": "Hartford MVP-8","name": "CNC078","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 9000000},
+  {"brand": "Hartford MVP-8","name": "CNC079","status": "WORKING","statusStartTime": "2023-03-22 12:43:29","simulationTime": 15500000},
+  {"brand": "Hartford MVP-8","name": "CNC080","status": "IDLE","statusStartTime": "2023-03-22 7:43:29","simulationTime": 0},
+  {"brand": "Hartford MVP-8","name": "CNC081","status": "IDLE","statusStartTime": "2023-03-22 8:43:29","simulationTime": 0},
+  {"brand": "Hartford MVP-8","name": "CNC082","status": "IDLE","statusStartTime": "2023-03-22 6:43:29","simulationTime": 0}
+
+
+  
+]

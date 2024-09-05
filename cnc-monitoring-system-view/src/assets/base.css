@@ -1,0 +1,51 @@
+html.dark {
+  /* 整体布局 */
+  --theme-color: #041C32;
+  --header-bg-color: #2c3e50;
+
+  /* MachineStatusCard */
+  --status-card-bg-color: #064663;
+  --status-card-content-color: #e67e22;
+  --status-card-title-color:#08D9D6;
+
+  /* Idle card */
+  --idle-card-header-text-color:#08D9D6;
+  --idle-card-text-color: white;
+
+  /* Table */
+  /* --cnc-table-text-color: white; */
+  --cnc-table-bg-color: #064663;
+  --cnc-table-header-text-color:#08D9D6;
+
+
+  --aside-bg-color: #191825;
+}
+
+:root {
+  /* 整体布局 */
+  --theme-color: #ecf5ff;
+  --header-bg-color: #2980b9;
+
+  /* MachineStatusCard */
+  --status-card-bg-color: white;
+  --status-card-content-color: #ff793f;
+  --status-card-title-color:#34495e;
+
+  /* Idle card */
+  --idle-card-header-text-color: #34495e;
+  --idle-card-text-color: black;
+
+  /* Table */
+  /* --cnc-table-text-color: black; */
+  /* --cnc-table-bg-color:white; */
+  --cnc-table-header-text-color:#34495e;
+  --aside-bg-color: white;
+
+
+}
+
+
+
+html.dark .el-card {
+  --el-card-bg-color: #064663;
+}
